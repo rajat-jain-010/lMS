@@ -1,0 +1,21 @@
+BOOK_ID,BOOK_NAME,AUTHOR_NAME,BOOK_PRICE,QTY
+1,Python Crash Course,Eric Matthes,29.99,100
+2,JavaScript: The Good Parts,Douglas Crockford,24.95,80
+3,Clean Code: A Handbook of Agile Software Craftsmanship,Robert C. Martin,34.99,120
+4,Introduction to Algorithms,Thomas H. Cormen,49.95,60
+5,Head First Design Patterns,Eric Freeman,42.5,70
+6,Code Complete: A Practical Handbook of Software Construction,Steve McConnell,39.95,90
+7,Learning Web Design,Jennifer Niederst Robbins,28.75,110
+8,The Pragmatic Programmer: Your Journey to Mastery,David Thomas,37.25,85
+9,Java: The Complete Reference,Herbert Schildt,31.5,75
+10,Cracking the Coding Interview,Gayle Laakmann McDowell,26.99,105
+11,SQL Performance Explained,Markus Winand,45,50
+12,Ruby on Rails Tutorial,Michael Hartl,29.95,95
+13,Design Patterns: Elements of Reusable Object-Oriented Software,Erich Gamma,23.5,65
+14,Effective Java,Joshua Bloch,33.75,80
+15,HTML and CSS: Design and Build Websites,Jon Duckett,27.5,115
+16,Learning Python,Mark Lutz,36.99,70
+17,Deep Learning,Ian Goodfellow,55,45
+18,The Mythical Man-Month,Frederick P. Brooks Jr.,20.25,60
+19,Eloquent JavaScript,Marijn Haverbeke,30,105
+20,Artificial Intelligence: A Modern Approach,Stuart Russell,48.75,55
